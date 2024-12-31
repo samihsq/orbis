@@ -1,2 +1,4 @@
 # orbis
 An emotion detector based on Twitter data
+
+_I actually worked on this when I was a kid (probably around 12)! Essentially, the goal was to represent how each continent was feeling based on an emotion analysis (with the TextBlob library) of a stream of Tweets, as they were coming in live. Then, the intention was to display this on an LED screen, with the continents' colors depicting the (average of the people on each) continent's emotions. I was never able to drive an LED screen with the Arduino that I had, but the Twitter API code works, utilizing the Tweepy library (check https://github.com/samihsq/orbis/tree/master/newest/twitter-data for some downloaded data!). Pretty fun project, and I would love to continue it, but X only allows 100 API reads a day, so this project would be unfathomable in 2024. Good times!_
